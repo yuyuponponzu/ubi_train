@@ -1,0 +1,397 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Fukutotoshinsen_data" version="1.3.0" audacityversion="2.2.2" sel0="0.0000000000" sel1="12.3100226757" vpos="0" h="0.0000000000" zoom="5.2802461592" rate="44100.0" snapto="off" selectionformat="時:分:秒 + ミリ秒" frequencyformat="Hz" bandwidthformat="オクターブ">
+	<tags>
+		<tag name="Software" value="Lavf58.27.103"/>
+	</tags>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a91.au" len="156805" min="-0.220612" max="0.216431" rms="0.029128"/>
+				</waveblock>
+				<waveblock start="156805">
+					<pcmaliasblockfile summaryfile="e000028a.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Fukutotoshinsen.wav" aliasstart="524288" aliaslen="262144" aliaschannel="0" min="-0.638306" max="0.591644" rms="0.130956"/>
+				</waveblock>
+				<waveblock start="418949">
+					<simpleblockfile filename="e000029f.au" len="123923" min="-0.62439" max="0.722717" rms="0.194108"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ecd.au" len="138221" min="-0.995697" max="0.951477" rms="0.221448"/>
+				</waveblock>
+				<waveblock start="138221">
+					<pcmaliasblockfile summaryfile="e00001ff.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Fukutotoshinsen.wav" aliasstart="1048576" aliaslen="262144" aliaschannel="0" min="-0.975311" max="0.98645" rms="0.154872"/>
+				</waveblock>
+				<waveblock start="400365">
+					<simpleblockfile filename="e000096e.au" len="142507" min="-0.589264" max="0.510681" rms="0.169502"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e000070a.au" len="190890" min="-0.693573" max="0.654602" rms="0.200794"/>
+				</waveblock>
+				<waveblock start="190890">
+					<simpleblockfile filename="e0000c06.au" len="190891" min="-0.477509" max="0.403442" rms="0.104409"/>
+				</waveblock>
+				<waveblock start="381781">
+					<simpleblockfile filename="e0000702.au" len="161091" min="-0.424286" max="0.390747" rms="0.097394"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ebf.au" len="181598" min="-0.665161" max="0.584167" rms="0.157838"/>
+				</waveblock>
+				<waveblock start="181598">
+					<simpleblockfile filename="e0000f03.au" len="181599" min="-0.558868" max="0.491669" rms="0.1107"/>
+				</waveblock>
+				<waveblock start="363197">
+					<simpleblockfile filename="e0000853.au" len="179675" min="-0.504608" max="0.434692" rms="0.127947"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e000043e.au" len="172306" min="-0.407074" max="0.433502" rms="0.066123"/>
+				</waveblock>
+				<waveblock start="172306">
+					<simpleblockfile filename="e0000d68.au" len="172307" min="-0.018433" max="0.008789" rms="0.006256"/>
+				</waveblock>
+				<waveblock start="344613">
+					<simpleblockfile filename="e000010a.au" len="198259" min="-0.280914" max="0.237152" rms="0.048254"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e9d.au" len="163014" min="-0.291229" max="0.303131" rms="0.070711"/>
+				</waveblock>
+				<waveblock start="163014">
+					<simpleblockfile filename="e0000790.au" len="163015" min="-0.422089" max="0.445374" rms="0.103414"/>
+				</waveblock>
+				<waveblock start="326029">
+					<simpleblockfile filename="e0000a35.au" len="216843" min="-0.534393" max="0.444031" rms="0.10104"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001e3.au" len="153722" min="-0.370483" max="0.378021" rms="0.05108"/>
+				</waveblock>
+				<waveblock start="153722">
+					<simpleblockfile filename="e0000da9.au" len="153723" min="-0.511658" max="0.482513" rms="0.153871"/>
+				</waveblock>
+				<waveblock start="307445">
+					<simpleblockfile filename="e000089e.au" len="235427" min="-0.625305" max="0.495209" rms="0.129042"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007b4.au" len="144430" min="-0.467896" max="0.471008" rms="0.117444"/>
+				</waveblock>
+				<waveblock start="144430">
+					<simpleblockfile filename="e00006b6.au" len="144431" min="-0.731049" max="0.654877" rms="0.161409"/>
+				</waveblock>
+				<waveblock start="288861">
+					<simpleblockfile filename="e00007a2.au" len="254011" min="-0.613861" max="0.562256" rms="0.135397"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e00006fa.au" len="135138" min="-0.408844" max="0.425507" rms="0.097997"/>
+				</waveblock>
+				<waveblock start="135138">
+					<simpleblockfile filename="e0000387.au" len="135139" min="-0.433167" max="0.398041" rms="0.089556"/>
+				</waveblock>
+				<waveblock start="270277">
+					<pcmaliasblockfile summaryfile="e00001a1.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Fukutotoshinsen.wav" aliasstart="4980736" aliaslen="262144" aliaschannel="0" min="-0.284729" max="0.259247" rms="0.049925"/>
+				</waveblock>
+				<waveblock start="532421">
+					<simpleblockfile filename="e0000d5f.au" len="10451" min="-0.120239" max="0.082092" rms="0.025473"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ef5.au" len="251693" min="-0.08786" max="0.083679" rms="0.011584"/>
+				</waveblock>
+				<waveblock start="251693">
+					<pcmaliasblockfile summaryfile="e000059f.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Fukutotoshinsen.wav" aliasstart="5505024" aliaslen="262144" aliaschannel="0" min="-0.462585" max="0.429596" rms="0.091193"/>
+				</waveblock>
+				<waveblock start="513837">
+					<simpleblockfile filename="e0000c99.au" len="29035" min="-0.525085" max="0.422882" rms="0.148829"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004d4.au" len="233109" min="-0.765991" max="0.747833" rms="0.190657"/>
+				</waveblock>
+				<waveblock start="233109">
+					<pcmaliasblockfile summaryfile="e0000466.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Fukutotoshinsen.wav" aliasstart="6029312" aliaslen="262144" aliaschannel="0" min="-0.798828" max="0.68219" rms="0.148381"/>
+				</waveblock>
+				<waveblock start="495253">
+					<simpleblockfile filename="e00004c7.au" len="47619" min="-0.536499" max="0.413605" rms="0.115407"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e000067d.au" len="214525" min="-0.698242" max="0.683136" rms="0.167776"/>
+				</waveblock>
+				<waveblock start="214525">
+					<pcmaliasblockfile summaryfile="e0000acc.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Fukutotoshinsen.wav" aliasstart="6553600" aliaslen="262144" aliaschannel="0" min="-0.844177" max="0.84494" rms="0.220937"/>
+				</waveblock>
+				<waveblock start="476669">
+					<simpleblockfile filename="e0000c52.au" len="66203" min="-0.621307" max="0.559143" rms="0.171422"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000334.au" len="195941" min="-0.635193" max="0.613708" rms="0.142886"/>
+				</waveblock>
+				<waveblock start="195941">
+					<pcmaliasblockfile summaryfile="e0000406.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Fukutotoshinsen.wav" aliasstart="7077888" aliaslen="262144" aliaschannel="0" min="-0.632812" max="0.676758" rms="0.14199"/>
+				</waveblock>
+				<waveblock start="458085">
+					<simpleblockfile filename="e0000299.au" len="84787" min="-0.423065" max="0.521027" rms="0.147804"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e000011e.au" len="177357" min="-0.649048" max="0.61496" rms="0.152548"/>
+				</waveblock>
+				<waveblock start="177357">
+					<pcmaliasblockfile summaryfile="e000098f.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Fukutotoshinsen.wav" aliasstart="7602176" aliaslen="262144" aliaschannel="0" min="-0.42984" max="0.47876" rms="0.089576"/>
+				</waveblock>
+				<waveblock start="439501">
+					<simpleblockfile filename="e0000341.au" len="103371" min="-0.0177" max="0.008453" rms="0.006241"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000868.au" len="158773" min="-0.055481" max="0.041992" rms="0.007183"/>
+				</waveblock>
+				<waveblock start="158773">
+					<pcmaliasblockfile summaryfile="e00000c6.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Fukutotoshinsen.wav" aliasstart="8126464" aliaslen="262144" aliaschannel="0" min="-0.34259" max="0.309418" rms="0.073211"/>
+				</waveblock>
+				<waveblock start="420917">
+					<simpleblockfile filename="e00000b4.au" len="121955" min="-0.4729" max="0.532532" rms="0.108524"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009ad.au" len="140189" min="-0.58963" max="0.557404" rms="0.157997"/>
+				</waveblock>
+				<waveblock start="140189">
+					<pcmaliasblockfile summaryfile="e0000619.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Fukutotoshinsen.wav" aliasstart="8650752" aliaslen="262144" aliaschannel="0" min="-0.564728" max="0.497101" rms="0.126501"/>
+				</waveblock>
+				<waveblock start="402333">
+					<simpleblockfile filename="e0000fea.au" len="140539" min="-0.775238" max="0.853485" rms="0.19558"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a7b.au" len="191874" min="-0.932709" max="0.899384" rms="0.249652"/>
+				</waveblock>
+				<waveblock start="191874">
+					<simpleblockfile filename="e000057c.au" len="191875" min="-0.956573" max="0.990051" rms="0.273465"/>
+				</waveblock>
+				<waveblock start="383749">
+					<simpleblockfile filename="e0000450.au" len="159123" min="-0.689972" max="0.646484" rms="0.169342"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000767.au" len="182582" min="-0.520111" max="0.453888" rms="0.121679"/>
+				</waveblock>
+				<waveblock start="182582">
+					<simpleblockfile filename="e0000e33.au" len="182583" min="-0.405151" max="0.407928" rms="0.093374"/>
+				</waveblock>
+				<waveblock start="365165">
+					<simpleblockfile filename="e000073c.au" len="177707" min="-0.291168" max="0.276611" rms="0.062765"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ee2.au" len="173290" min="-0.19455" max="0.176331" rms="0.044831"/>
+				</waveblock>
+				<waveblock start="173290">
+					<simpleblockfile filename="e00006cd.au" len="173291" min="-0.131989" max="0.119171" rms="0.018654"/>
+				</waveblock>
+				<waveblock start="346581">
+					<simpleblockfile filename="e00004fe.au" len="196291" min="-0.084045" max="0.062042" rms="0.008667"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e000095e.au" len="163998" min="-0.269928" max="0.237915" rms="0.049071"/>
+				</waveblock>
+				<waveblock start="163998">
+					<simpleblockfile filename="e00003c5.au" len="163999" min="-0.365479" max="0.427429" rms="0.07575"/>
+				</waveblock>
+				<waveblock start="327997">
+					<simpleblockfile filename="e0000df0.au" len="214875" min="-0.680389" max="0.671722" rms="0.184452"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ad4.au" len="154706" min="-0.446808" max="0.419922" rms="0.094118"/>
+				</waveblock>
+				<waveblock start="154706">
+					<simpleblockfile filename="e0000a88.au" len="154707" min="-0.512634" max="0.483856" rms="0.084981"/>
+				</waveblock>
+				<waveblock start="309413">
+					<simpleblockfile filename="e0000f64.au" len="233459" min="-0.824463" max="0.770905" rms="0.216929"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000eb5.au" len="145414" min="-0.696014" max="0.69931" rms="0.151463"/>
+				</waveblock>
+				<waveblock start="145414">
+					<simpleblockfile filename="e0000ccd.au" len="145415" min="-0.580048" max="0.484985" rms="0.12622"/>
+				</waveblock>
+				<waveblock start="290829">
+					<simpleblockfile filename="e00005e5.au" len="252043" min="-0.726074" max="0.682434" rms="0.18162"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e000080b.au" len="136122" min="-0.589752" max="0.460266" rms="0.134437"/>
+				</waveblock>
+				<waveblock start="136122">
+					<simpleblockfile filename="e0000dfb.au" len="136123" min="-0.561768" max="0.498993" rms="0.120496"/>
+				</waveblock>
+				<waveblock start="272245">
+					<pcmaliasblockfile summaryfile="e0000b26.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Fukutotoshinsen.wav" aliasstart="12582912" aliaslen="262144" aliaschannel="0" min="-0.495453" max="0.436646" rms="0.104917"/>
+				</waveblock>
+				<waveblock start="534389">
+					<simpleblockfile filename="e0000a25.au" len="8483" min="-0.23053" max="0.223328" rms="0.071589"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Fukutotoshinsen" channel="0" linked="0" mute="0" solo="0" height="44" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="542872">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009c4.au" len="253661" min="-0.298035" max="0.251404" rms="0.060513"/>
+				</waveblock>
+				<waveblock start="253661">
+					<pcmaliasblockfile summaryfile="e00009b9.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Fukutotoshinsen.wav" aliasstart="13107200" aliaslen="262144" aliaschannel="0" min="-0.181854" max="0.176178" rms="0.026551"/>
+				</waveblock>
+				<waveblock start="515805">
+					<simpleblockfile filename="e00002f6.au" len="27067" min="-0.017578" max="0.006622" rms="0.006251"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

@@ -1,0 +1,218 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="阪急8000系3種類を自作VVVFインバーターで再現しました_data" version="1.3.0" audacityversion="2.2.2" sel0="163.1607485640" sel1="163.1607485640" vpos="0" h="0.0000000000" zoom="3.4199401811" rate="44100.0" snapto="off" selectionformat="時:分:秒 + ミリ秒" frequencyformat="Hz" bandwidthformat="オクターブ">
+	<tags>
+		<tag name="Software" value="Lavf58.27.103"/>
+	</tags>
+	<wavetrack name="阪急8000系3種類を自作VVVFインバーターで再現しました" channel="2" linked="0" mute="0" solo="0" height="303" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="-1.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="528693">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000bb9.au" len="151654" min="-0.198914" max="0.213379" rms="0.039084"/>
+				</waveblock>
+				<waveblock start="151654">
+					<simpleblockfile filename="e00008fb.au" len="151655" min="-0.12085" max="0.115112" rms="0.022789"/>
+				</waveblock>
+				<waveblock start="303309">
+					<simpleblockfile filename="e00005c9.au" len="225384" min="-0.181305" max="0.186493" rms="0.026511"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="阪急8000系3種類を自作VVVFインバーターで再現しました" channel="0" linked="0" mute="0" solo="0" height="121" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="554483">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b66.au" len="85859" min="-0.857025" max="0.923035" rms="0.09287"/>
+				</waveblock>
+				<waveblock start="85859">
+					<pcmaliasblockfile summaryfile="e0000c68.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/阪急8000系3種類を自作VVVFインバーターで再現しました.wav" aliasstart="524288" aliaslen="262144" aliaschannel="0" min="-0.873016" max="0.993011" rms="0.146204"/>
+				</waveblock>
+				<waveblock start="348003">
+					<simpleblockfile filename="e00006b4.au" len="206480" min="-1.0" max="0.999268" rms="0.224099"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="阪急8000系3種類を自作VVVFインバーターで再現しました" channel="0" linked="0" mute="0" solo="0" height="83" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="554483">
+				<waveblock start="0">
+					<simpleblockfile filename="e000080d.au" len="158904" min="-1.0" max="0.999969" rms="0.243427"/>
+				</waveblock>
+				<waveblock start="158904">
+					<simpleblockfile filename="e000022a.au" len="158904" min="-0.662994" max="0.602905" rms="0.08962"/>
+				</waveblock>
+				<waveblock start="317808">
+					<simpleblockfile filename="e0000584.au" len="236675" min="-0.52948" max="0.537994" rms="0.096888"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="阪急8000系3種類を自作VVVFインバーターで再現しました" channel="0" linked="0" mute="0" solo="0" height="92" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="554483">
+				<waveblock start="0">
+					<simpleblockfile filename="e00003c0.au" len="171559" min="-1.0" max="0.999969" rms="0.264453"/>
+				</waveblock>
+				<waveblock start="171559">
+					<pcmaliasblockfile summaryfile="e0000efd.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/阪急8000系3種類を自作VVVFインバーターで再現しました.wav" aliasstart="1835008" aliaslen="262144" aliaschannel="0" min="-0.606049" max="0.560059" rms="0.141681"/>
+				</waveblock>
+				<waveblock start="433703">
+					<simpleblockfile filename="e0000111.au" len="120780" min="-0.309875" max="0.313538" rms="0.076796"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="阪急8000系3種類を自作VVVFインバーターで再現しました" channel="0" linked="0" mute="0" solo="0" height="93" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="554483">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000552.au" len="141364" min="-0.476562" max="0.463379" rms="0.110039"/>
+				</waveblock>
+				<waveblock start="141364">
+					<pcmaliasblockfile summaryfile="e000027a.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/阪急8000系3種類を自作VVVFインバーターで再現しました.wav" aliasstart="2359296" aliaslen="262144" aliaschannel="0" min="-0.623627" max="0.578186" rms="0.09395"/>
+				</waveblock>
+				<waveblock start="403508">
+					<simpleblockfile filename="e000029b.au" len="150975" min="-0.413452" max="0.384674" rms="0.096749"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="阪急8000系3種類を自作VVVFインバーターで再現しました" channel="0" linked="0" mute="0" solo="0" height="87" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="464219">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000844.au" len="186656" min="-0.557037" max="0.544769" rms="0.114694"/>
+				</waveblock>
+				<waveblock start="186656">
+					<simpleblockfile filename="e0000ef6.au" len="186657" min="-0.337372" max="0.411682" rms="0.0781"/>
+				</waveblock>
+				<waveblock start="373313">
+					<simpleblockfile filename="e0000031.au" len="90906" min="-0.603607" max="0.583984" rms="0.121376"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="阪急8000系3種類を自作VVVFインバーターで再現しました" channel="0" linked="0" mute="0" solo="0" height="100" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="554483">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000894.au" len="141443" min="-0.23233" max="0.233093" rms="0.062449"/>
+				</waveblock>
+				<waveblock start="141443">
+					<simpleblockfile filename="e0000cba.au" len="141444" min="-0.349945" max="0.372711" rms="0.128944"/>
+				</waveblock>
+				<waveblock start="282887">
+					<pcmaliasblockfile summaryfile="e00007a2.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/阪急8000系3種類を自作VVVFインバーターで再現しました.wav" aliasstart="3932160" aliaslen="262144" aliaschannel="0" min="-0.473114" max="0.46106" rms="0.119479"/>
+				</waveblock>
+				<waveblock start="545031">
+					<simpleblockfile filename="e0000a5f.au" len="9452" min="-0.207947" max="0.228912" rms="0.066108"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="阪急8000系3種類を自作VVVFインバーターで再現しました" channel="0" linked="0" mute="0" solo="0" height="92" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="554483">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000353.au" len="252692" min="-0.962006" max="0.920746" rms="0.201326"/>
+				</waveblock>
+				<waveblock start="252692">
+					<pcmaliasblockfile summaryfile="e0000f87.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/阪急8000系3種類を自作VVVFインバーターで再現しました.wav" aliasstart="4456448" aliaslen="262144" aliaschannel="0" min="-0.658203" max="0.741272" rms="0.164261"/>
+				</waveblock>
+				<waveblock start="514836">
+					<simpleblockfile filename="e0000459.au" len="39647" min="-0.484985" max="0.452148" rms="0.121566"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="阪急8000系3種類を自作VVVFインバーターで再現しました" channel="0" linked="0" mute="0" solo="0" height="129" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="606063">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000703.au" len="222497" min="-0.638031" max="0.693726" rms="0.164993"/>
+				</waveblock>
+				<waveblock start="222497">
+					<pcmaliasblockfile summaryfile="e00004ab.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/阪急8000系3種類を自作VVVFインバーターで再現しました.wav" aliasstart="4980736" aliaslen="262144" aliaschannel="0" min="-0.796967" max="0.824402" rms="0.200207"/>
+				</waveblock>
+				<waveblock start="484641">
+					<simpleblockfile filename="e00008f2.au" len="121422" min="-0.729187" max="0.660553" rms="0.165989"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="阪急8000系3種類を自作VVVFインバーターで再現しました" channel="0" linked="0" mute="0" solo="0" height="103" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="567378">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b9e.au" len="140722" min="-0.798645" max="0.713715" rms="0.160935"/>
+				</waveblock>
+				<waveblock start="140722">
+					<pcmaliasblockfile summaryfile="e000070a.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/阪急8000系3種類を自作VVVFインバーターで再現しました.wav" aliasstart="5505024" aliaslen="262144" aliaschannel="0" min="-0.640625" max="0.575378" rms="0.148576"/>
+				</waveblock>
+				<waveblock start="402866">
+					<simpleblockfile filename="e000033c.au" len="164512" min="-0.21579" max="0.206604" rms="0.046874"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="阪急8000系3種類を自作VVVFインバーターで再現しました" channel="0" linked="0" mute="0" solo="0" height="118" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="593168">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d5d.au" len="222015" min="-0.764343" max="0.82251" rms="0.112844"/>
+				</waveblock>
+				<waveblock start="222015">
+					<pcmaliasblockfile summaryfile="e0000f26.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/阪急8000系3種類を自作VVVFインバーターで再現しました.wav" aliasstart="7340032" aliaslen="262144" aliaschannel="0" min="-0.978058" max="0.999969" rms="0.222726"/>
+				</waveblock>
+				<waveblock start="484159">
+					<simpleblockfile filename="e0000d72.au" len="109009" min="-0.6185" max="0.613098" rms="0.139954"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="阪急8000系3種類を自作VVVFインバーターで再現しました" channel="0" linked="0" mute="0" solo="0" height="118" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="567378">
+				<waveblock start="0">
+					<simpleblockfile filename="e000075c.au" len="153135" min="-0.572693" max="0.561951" rms="0.140366"/>
+				</waveblock>
+				<waveblock start="153135">
+					<pcmaliasblockfile summaryfile="e0000718.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/阪急8000系3種類を自作VVVFインバーターで再現しました.wav" aliasstart="7864320" aliaslen="262144" aliaschannel="0" min="-0.86261" max="0.763977" rms="0.193895"/>
+				</waveblock>
+				<waveblock start="415279">
+					<simpleblockfile filename="e00000e3.au" len="152099" min="-0.635498" max="0.642334" rms="0.165569"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="阪急8000系3種類を自作VVVFインバーターで再現しました" channel="0" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="593168">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a25.au" len="186094" min="-0.525726" max="0.574646" rms="0.12994"/>
+				</waveblock>
+				<waveblock start="186094">
+					<simpleblockfile filename="e0000227.au" len="186095" min="-0.839111" max="0.85907" rms="0.190055"/>
+				</waveblock>
+				<waveblock start="372189">
+					<simpleblockfile filename="e0000b36.au" len="220979" min="-0.486694" max="0.477509" rms="0.097945"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

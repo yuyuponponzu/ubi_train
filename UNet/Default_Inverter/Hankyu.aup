@@ -1,0 +1,285 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Hankyu_data" version="1.3.0" audacityversion="2.2.2" sel0="14.3731820441" sel1="14.3731820441" vpos="0" h="0.0000000000" zoom="6.4008094880" rate="44100.0" snapto="off" selectionformat="時:分:秒 + ミリ秒" frequencyformat="Hz" bandwidthformat="オクターブ">
+	<tags>
+		<tag name="Software" value="Lavf58.27.103"/>
+	</tags>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="80" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="544291">
+				<waveblock start="0">
+					<simpleblockfile filename="e00002a9.au" len="172744" min="-0.715729" max="0.652802" rms="0.108732"/>
+				</waveblock>
+				<waveblock start="172744">
+					<simpleblockfile filename="e000056a.au" len="172744" min="-0.77713" max="0.848785" rms="0.137355"/>
+				</waveblock>
+				<waveblock start="345488">
+					<simpleblockfile filename="e0000c16.au" len="198803" min="-0.988647" max="0.974365" rms="0.211396"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="91" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="544291">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000368.au" len="162742" min="-0.853638" max="0.827332" rms="0.201281"/>
+				</waveblock>
+				<waveblock start="162742">
+					<simpleblockfile filename="e0000f18.au" len="162743" min="-0.597443" max="0.551117" rms="0.13309"/>
+				</waveblock>
+				<waveblock start="325485">
+					<simpleblockfile filename="e0000a36.au" len="218806" min="-0.308807" max="0.341949" rms="0.038254"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="75" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="509842">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000861.au" len="152741" min="-0.387695" max="0.359802" rms="0.089203"/>
+				</waveblock>
+				<waveblock start="152741">
+					<simpleblockfile filename="e0000945.au" len="152741" min="-0.373505" max="0.403076" rms="0.084346"/>
+				</waveblock>
+				<waveblock start="305482">
+					<simpleblockfile filename="e00009f2.au" len="204360" min="-0.787323" max="0.69873" rms="0.132247"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="78" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="544291">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001b4.au" len="159964" min="-0.478302" max="0.43277" rms="0.104182"/>
+				</waveblock>
+				<waveblock start="159964">
+					<simpleblockfile filename="e00009a7.au" len="159964" min="-0.370392" max="0.367981" rms="0.088887"/>
+				</waveblock>
+				<waveblock start="319928">
+					<simpleblockfile filename="e0000081.au" len="224363" min="-0.385651" max="0.407288" rms="0.093792"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="73" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="544291">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a6c.au" len="149962" min="-0.665009" max="0.554474" rms="0.130346"/>
+				</waveblock>
+				<waveblock start="149962">
+					<simpleblockfile filename="e0000856.au" len="149963" min="-0.68161" max="0.676941" rms="0.162411"/>
+				</waveblock>
+				<waveblock start="299925">
+					<simpleblockfile filename="e00003e3.au" len="244366" min="-0.587616" max="0.591064" rms="0.107889"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="79" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="544291">
+				<waveblock start="0">
+					<simpleblockfile filename="e000016a.au" len="139961" min="-0.007202" max="0.005737" rms="0.00104"/>
+				</waveblock>
+				<waveblock start="139961">
+					<simpleblockfile filename="e0000fcc.au" len="139961" min="-0.002686" max="0.001251" rms="0.000768"/>
+				</waveblock>
+				<waveblock start="279922">
+					<pcmaliasblockfile summaryfile="e0000eb8.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Hankyu.wav" aliasstart="3407872" aliaslen="262144" aliaschannel="0" min="-0.660675" max="0.673309" rms="0.144008"/>
+				</waveblock>
+				<waveblock start="542066">
+					<simpleblockfile filename="e0000998.au" len="2225" min="-0.233521" max="0.298828" rms="0.094321"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="544291">
+				<waveblock start="0">
+					<simpleblockfile filename="e00002e0.au" len="259919" min="-0.679321" max="0.640015" rms="0.126417"/>
+				</waveblock>
+				<waveblock start="259919">
+					<pcmaliasblockfile summaryfile="e000091e.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Hankyu.wav" aliasstart="3932160" aliaslen="262144" aliaschannel="0" min="-0.944305" max="0.88385" rms="0.185015"/>
+				</waveblock>
+				<waveblock start="522063">
+					<simpleblockfile filename="e0000ea1.au" len="22228" min="-0.31427" max="0.311829" rms="0.092829"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="578739">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e39.au" len="239916" min="-0.530609" max="0.503143" rms="0.097908"/>
+				</waveblock>
+				<waveblock start="239916">
+					<pcmaliasblockfile summaryfile="e000018e.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Hankyu.wav" aliasstart="4456448" aliaslen="262144" aliaschannel="0" min="-0.656464" max="0.588684" rms="0.101556"/>
+				</waveblock>
+				<waveblock start="502060">
+					<simpleblockfile filename="e0000808.au" len="76679" min="-0.516632" max="0.53598" rms="0.157258"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="544291">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000020.au" len="185465" min="-0.467194" max="0.631165" rms="0.196348"/>
+				</waveblock>
+				<waveblock start="185465">
+					<pcmaliasblockfile summaryfile="e000084d.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Hankyu.wav" aliasstart="4980736" aliaslen="262144" aliaschannel="0" min="-0.54895" max="0.543732" rms="0.127112"/>
+				</waveblock>
+				<waveblock start="447609">
+					<simpleblockfile filename="e0000943.au" len="96682" min="-0.276855" max="0.276215" rms="0.069561"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="544291">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f3f.au" len="165462" min="-0.440704" max="0.41098" rms="0.077206"/>
+				</waveblock>
+				<waveblock start="165462">
+					<pcmaliasblockfile summaryfile="e0000a1a.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Hankyu.wav" aliasstart="5505024" aliaslen="262144" aliaschannel="0" min="-0.479126" max="0.485046" rms="0.102951"/>
+				</waveblock>
+				<waveblock start="427606">
+					<simpleblockfile filename="e00005ed.au" len="116685" min="-0.359192" max="0.318634" rms="0.098134"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="544291">
+				<waveblock start="0">
+					<simpleblockfile filename="e00003eb.au" len="145459" min="-0.658081" max="0.576691" rms="0.13137"/>
+				</waveblock>
+				<waveblock start="145459">
+					<pcmaliasblockfile summaryfile="e0000983.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Hankyu.wav" aliasstart="6029312" aliaslen="262144" aliaschannel="0" min="-0.647125" max="0.562927" rms="0.127047"/>
+				</waveblock>
+				<waveblock start="407603">
+					<simpleblockfile filename="e0000396.au" len="136688" min="-0.486176" max="0.488159" rms="0.088759"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="578739">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000257.au" len="156073" min="-0.088135" max="0.081146" rms="0.016238"/>
+				</waveblock>
+				<waveblock start="156073">
+					<simpleblockfile filename="e000055b.au" len="156073" min="-0.197754" max="0.186218" rms="0.051056"/>
+				</waveblock>
+				<waveblock start="312146">
+					<pcmaliasblockfile summaryfile="e0000a5e.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Hankyu.wav" aliasstart="7077888" aliaslen="262144" aliaschannel="0" min="-0.375" max="0.387787" rms="0.081514"/>
+				</waveblock>
+				<waveblock start="574290">
+					<simpleblockfile filename="e000095f.au" len="4449" min="-0.152802" max="0.140503" rms="0.051506"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="509842">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c8a.au" len="257695" min="-0.444611" max="0.47287" rms="0.091251"/>
+				</waveblock>
+				<waveblock start="257695">
+					<simpleblockfile filename="e0000932.au" len="252147" min="-0.841492" max="0.716797" rms="0.176559"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="530511">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c51.au" len="136070" min="-0.495239" max="0.496918" rms="0.121662"/>
+				</waveblock>
+				<waveblock start="136070">
+					<simpleblockfile filename="e0000242.au" len="136071" min="-0.651855" max="0.586273" rms="0.156903"/>
+				</waveblock>
+				<waveblock start="272141">
+					<simpleblockfile filename="e0000f97.au" len="258370" min="-0.735901" max="0.774689" rms="0.184132"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="564960">
+				<waveblock start="0">
+					<simpleblockfile filename="e000007c.au" len="132959" min="-0.870392" max="0.898163" rms="0.201967"/>
+				</waveblock>
+				<waveblock start="132959">
+					<simpleblockfile filename="e000086f.au" len="132959" min="-0.929749" max="0.858887" rms="0.217353"/>
+				</waveblock>
+				<waveblock start="265918">
+					<pcmaliasblockfile summaryfile="e0000a64.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Hankyu.wav" aliasstart="8650752" aliaslen="262144" aliaschannel="0" min="-0.885406" max="0.838196" rms="0.210196"/>
+				</waveblock>
+				<waveblock start="528062">
+					<simpleblockfile filename="e0000b86.au" len="36898" min="-0.944336" max="0.823059" rms="0.206221"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="544291">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c88.au" len="225246" min="-0.91394" max="0.783844" rms="0.199283"/>
+				</waveblock>
+				<waveblock start="225246">
+					<pcmaliasblockfile summaryfile="e0000f45.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Hankyu.wav" aliasstart="9175040" aliaslen="262144" aliaschannel="0" min="-0.651794" max="0.752625" rms="0.138161"/>
+				</waveblock>
+				<waveblock start="487390">
+					<simpleblockfile filename="e0000827.au" len="56901" min="-0.420288" max="0.327209" rms="0.092611"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hankyu" channel="0" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="537401">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000268.au" len="205243" min="-0.348206" max="0.318207" rms="0.064575"/>
+				</waveblock>
+				<waveblock start="205243">
+					<pcmaliasblockfile summaryfile="e000086b.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Hankyu.wav" aliasstart="9699328" aliaslen="262144" aliaschannel="0" min="-0.291656" max="0.236786" rms="0.034737"/>
+				</waveblock>
+				<waveblock start="467387">
+					<simpleblockfile filename="e00009ae.au" len="70014" min="-0.061401" max="0.050018" rms="0.013236"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

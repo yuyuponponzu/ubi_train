@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Daraku_data" version="1.3.0" audacityversion="2.2.2" sel0="2.0480268611" sel1="2.0480268611" vpos="0" h="0.0000000000" zoom="19.0427189898" rate="44100.0" snapto="off" selectionformat="時:分:秒 + ミリ秒" frequencyformat="Hz" bandwidthformat="オクターブ">
+	<tags>
+		<tag name="Software" value="Lavf58.27.103"/>
+	</tags>
+	<wavetrack name="Daraku" channel="2" linked="0" mute="0" solo="0" height="186" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="-1.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="534961">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d11.au" len="131251" min="-0.687683" max="0.791565" rms="0.164917"/>
+				</waveblock>
+				<waveblock start="131251">
+					<simpleblockfile filename="e0000f39.au" len="131251" min="-0.596222" max="0.570251" rms="0.143125"/>
+				</waveblock>
+				<waveblock start="262502">
+					<simpleblockfile filename="e0000755.au" len="136229" min="-0.473846" max="0.486237" rms="0.109241"/>
+				</waveblock>
+				<waveblock start="398731">
+					<simpleblockfile filename="e0000793.au" len="136230" min="-0.33963" max="0.321472" rms="0.060602"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Daraku" channel="0" linked="0" mute="0" solo="0" height="103" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="488643">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001ff.au" len="234807" min="-0.497864" max="0.500153" rms="0.102555"/>
+				</waveblock>
+				<waveblock start="234807">
+					<simpleblockfile filename="e0000056.au" len="253836" min="-0.832916" max="0.848663" rms="0.175406"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Daraku" channel="0" linked="0" mute="0" solo="0" height="119" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="474748">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008af.au" len="135226" min="-0.886139" max="0.847809" rms="0.226384"/>
+				</waveblock>
+				<waveblock start="135226">
+					<simpleblockfile filename="e00000d6.au" len="135226" min="-0.942871" max="0.999969" rms="0.228533"/>
+				</waveblock>
+				<waveblock start="270452">
+					<simpleblockfile filename="e0000930.au" len="204296" min="-0.970856" max="0.999969" rms="0.214851"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Daraku" channel="0" linked="0" mute="0" solo="0" height="143" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="474748">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ab7.au" len="159996" min="-0.889862" max="0.859711" rms="0.21177"/>
+				</waveblock>
+				<waveblock start="159996">
+					<simpleblockfile filename="e000050a.au" len="159996" min="-0.863098" max="0.875061" rms="0.220579"/>
+				</waveblock>
+				<waveblock start="319992">
+					<simpleblockfile filename="e00008fc.au" len="154756" min="-0.765991" max="0.880188" rms="0.242755"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Daraku" channel="0" linked="0" mute="0" solo="0" height="92" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="474748">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000aef.au" len="163422" min="-0.863708" max="0.915161" rms="0.245318"/>
+				</waveblock>
+				<waveblock start="163422">
+					<pcmaliasblockfile summaryfile="e000022c.auf" aliasfile="/Users/hori/Research/Ubi/Train/UNet/Inverter/Daraku.wav" aliasstart="2097152" aliaslen="262144" aliaschannel="0" min="-1.0" max="0.995056" rms="0.218215"/>
+				</waveblock>
+				<waveblock start="425566">
+					<simpleblockfile filename="e0000cb7.au" len="49182" min="-0.846069" max="0.78064" rms="0.178667"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Daraku" channel="0" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="474748">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000298.au" len="212962" min="-1.0" max="0.999969" rms="0.262803"/>
+				</waveblock>
+				<waveblock start="212962">
+					<simpleblockfile filename="e0000349.au" len="261786" min="-0.881378" max="0.875793" rms="0.202086"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
