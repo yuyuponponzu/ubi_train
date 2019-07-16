@@ -96,7 +96,7 @@ def Savespec(y_inv, y_noi, X, Y, idx_item, i, cnt, ratio = [1, 0.5]):
         cnt += 1
     return X, Y, cnt
 
-def Augmentation(y_inv, y_noi, X, Y, idx_item, i):
+def Augmentation_128(y_inv, y_noi, X, Y, idx_item, i):
     cnt = 0
     X, Y, cnt = Savespec(y_inv, y_noi, X , Y, idx_item, i, cnt, ratio = [0.5, 0.75, 1.0, 1.25]) #ratio=[1+k/10 for k in range(-2, 2)])
     #一対のデータに対して40(shiftのみ)+80(stretch含め)=120個のデータを作成
@@ -129,6 +129,27 @@ def Augmentation(y_inv, y_noi, X, Y, idx_item, i):
                 X, Y, cnt = Savespec(y_inv_stretch, y_noi_stretch, X , Y, idx_item, i, cnt)
     return X, Y
 
+def Augmentation_16(y_inv, y_noi, X, Y, idx_item, i):
+    cnt = 0
+    X, Y, cnt = Savespec(y_inv, y_noi, X , Y, idx_item, i, cnt, ratio = [0.5, 0.75, 1.0, 1.25]) #ratio=[1+k/10 for k in range(-2, 2)])
+    #一対のデータに対して2*(2*2+2*1)+4=16個のデータを生成
+    st_ = [1.5, 0.75]
+    for sh in range(1,3):
+        for inv_sh in range(1,2):#1,3
+            y_inv_shift = pitch_shift(y_inv, const.SR, inv_sh)
+            y_noi_shift = pitch_shift(y_noi, const.SR, sh)
+            X, Y, cnt = Savespec(y_inv_shift, y_noi_shift, X , Y, idx_item, i, cnt)
+            X, Y, cnt = Savespec(y_inv_shift, np.flip(y_noi_shift),\
+                X , Y, idx_item, i, cnt, ratio = [1])
+            
+            y_inv_shift = pitch_shift(y_inv, const.SR, -inv_sh)
+            y_noi_shift = pitch_shift(y_noi, const.SR, -sh)
+            X, Y, cnt = Savespec(y_inv_shift, y_noi_shift, X , Y, idx_item, i, cnt)
+            X, Y, cnt = Savespec(y_inv_shift, np.flip(y_noi_shift),\
+                X , Y, idx_item, i, cnt, ratio = [1])
+
+    return X, Y
+
 def Augmentation_main(inverter_, fl_noise, X, Y, idx_item, i):
     inverter_ = inverter_[np.nonzero(inverter_)[0][0]:]
     idx_item_noise = np.random.randint(0, len(fl_noise), 1)
@@ -143,7 +164,7 @@ def Augmentation_main(inverter_, fl_noise, X, Y, idx_item, i):
     y_noise = resample(y_noise[:minlength], 44100, const.SR)
     print(len(y_noise))
     print(len(y_inverter))
-    return Augmentation(y_inverter, y_noise, X, Y, idx_item, i)
+    return Augmentation_16(y_inverter, y_noise, X, Y, idx_item, i)
 
 def TrainUNet(PATH_inverter = "Noise", PATH_noise = "Inverter", epoch=500, savefile="unet.model"):
     unet = UNet()
